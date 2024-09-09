@@ -1,5 +1,6 @@
 ### Eager to collaborate to build a future where technology meets compassion, and AI transforms the way we live, work, and heal. 💙
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Vindhyaa-Saravanan&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vindhyaa-Saravanan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me 🧠💡
 - 🎓 Finalist MEng, BSc Computer Science student at The University of Leeds, on track for a First-Class Honors track (2021-2025).
@@ -10,7 +11,7 @@
 [View my current resume](https://github.com/Vindhyaa-Saravanan/Vindhyaa-Saravanan/blob/main/resume.pdf)
 
 ## What I Bring to the Table 🛠️
-[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,c,tensorflow,github,visualstudio,sqlite,nodejs,nextjs,materialui,react,tailwind,aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,c,tensorflow,flask,django,github,visualstudio,sqlite,nodejs,nextjs,materialui,react,tailwind,aws,azure)](https://skillicons.dev)
 
 ## Professional Experience 🌍🛠️
 
