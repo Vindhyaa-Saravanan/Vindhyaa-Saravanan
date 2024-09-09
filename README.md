@@ -7,7 +7,7 @@
 - 💼 Hands-on experience during internships at Schneider Electric and AVEVA, where I worked on integrating complex cybersecurity solutions, visualizing team progress, and addressing key infrastructure challenges.
 - 🧬 Experienced in projects integrating AI models for medical diagnostics: ChestMultiVision — an AI-powered web app for instantaneous multi-abnormality chest X-ray analysis (<a href="https://chestmultivision.streamlit.app/">check it out</a>!).
 
-[View my current resume](https://github.com/Vindhyaa-Saravanan/Vindhyaa-Saravanan/resume.pdf)
+[View my current resume](https://github.com/Vindhyaa-Saravanan/Vindhyaa-Saravanan/blob/main/resume.pdf)
 
 ## What I Bring to the Table 🛠️
 [![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,c,tensorflow,github,visualstudio,sqlite,nodejs,nextjs,materialui,react,tailwind,aws,azure)](https://skillicons.dev)
