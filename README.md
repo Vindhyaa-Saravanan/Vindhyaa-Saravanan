@@ -43,7 +43,8 @@ I’m always on the lookout for exciting collaborations! If you’re working on 
     <a href="https://www.linkedin.com/in/vindhyaa-saravanan/" alt="Linkedin">LinkedIn</a> . 
     <a href="mailto:vindhyaa.saravanan@yahoo.in" alt="email">Email</a> . 
     <a href="https://github.com/Vindhyaa-Saravanan/" alt="GitHub">GitHub</a> . 
-    <a href="https://vindhyaa-saravanan.my.canva.site" alt="My Portfolio">Portfolio</a>
+    <a href="https://vindhyaa-saravanan.my.canva.site" alt="My Portfolio">Portfolio</a> . 
+    <a href="https://github.com/Vindhyaa-Saravanan/Vindhyaa-Saravanan/blob/main/resume.pdf" alt="My Resume">Resume</a>
   </p>
 
 <!--
