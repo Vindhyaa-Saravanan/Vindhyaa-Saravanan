@@ -2,12 +2,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Vindhyaa-Saravanan&theme=dark)](https://git.io/streak-stats)
 
 ## About Me 🧠💡
-- 🎓 MEng, BSc Computer Science student at The University of Leeds, with a First-Class Honors track (2021-2025).
-- 💻 Specializing in AI, Cybersecurity, Cloud Security, and Bio Computing, with a strong focus on harnessing technology to revolutionize healthcare.
-- 🌍 On a mission to leverage AI and machine learning for impactful innovations in healthtech and medtech—creating intelligent solutions that can change lives for the better.
+- 🎓 Finalist MEng, BSc Computer Science student at The University of Leeds, on track for a First-Class Honors track (2021-2025).
+- 🌍 Interested in AI, Cybersecurity, Cloud Security, and Bio-Computing, with a strong focus on harnessing technology to impact people's daily lives, and a personal interest in improving healthcare.
 - 💼 Hands-on experience during internships at Schneider Electric and AVEVA, where I worked on integrating complex cybersecurity solutions, visualizing team progress, and addressing key infrastructure challenges.
-- 🧬 Currently leading projects integrating AI models for medical diagnostics: ChestMultiVision — an AI-powered web app for instantaneous multi-abnormality chest X-ray analysis.
-- [My current resume](https://github.com/Vindhyaa-Saravanan/Vindhyaa-Saravanan/resume.pdf)
+- 🧬 Experienced in projects integrating AI models for medical diagnostics: ChestMultiVision — an AI-powered web app for instantaneous multi-abnormality chest X-ray analysis (<a href="https://chestmultivision.streamlit.app/">check it out</a>!).
+
+[View my current resume](https://github.com/Vindhyaa-Saravanan/Vindhyaa-Saravanan/resume.pdf)
 
 ## What I Bring to the Table 🛠️
 [![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,c,tensorflow,github,visualstudio,sqlite,nodejs,nextjs,materialui,react,tailwind,aws,azure)](https://skillicons.dev)
@@ -16,22 +16,27 @@
 
 ### Process Automation Summer Intern  
 #### Schneider Electric Systems Middle East | June 2024 – Present
-As a Process Automation Intern, I contributed to cybersecurity solutions for SCADA systems (supervisory control and data acquisition) by integrating virtualized environments with existing systems. This work required a deep understanding of virtual machines, network configurations, and security protocols, ensuring that systems operated securely while maintaining optimal performance. The documentation and testing I conducted during Cybersecurity Factory Acceptance Tests were instrumental in ensuring that these systems met stringent security standards before deployment. I also implemented and managed Acronis cybersecurity, which centralized backup policies for the organization, ensuring data integrity and quick recovery in case of breaches or failures.
+- Integrated workstations with a virtualized cybersecurity solution for client’s existing SCADA systems.
+- Facilitated Delivery Quality Procedure and Cybersecurity Factory Acceptance Testing documentation.
+- Co-ordinated SCADA testing to evaluate configuration accuracy and response times, improving testing efficiency by 20%.
+- Implemented Acronis cybersecurity to centrally deploy and manage group backup policies
 
 ### Research & Development Apprentice
 #### AVEVA Solutions | June 2023 – August 2023
-At AVEVA, my role was centered around cloud security and creating tools for improved team collaboration. I developed a comprehensive visualization dashboard using Atlassian Jira, providing a centralized view of project tasks, enhancing communication, and enabling informed decision-making across the team. Additionally, my work involved monitoring cloud infrastructure security using tools like Microsoft Azure Defender and AWS GuardDuty, helping the team proactively identify and address potential security threats. This project deepened my understanding of how to secure dynamic cloud environments and respond efficiently to potential threats while maintaining system performance.
+- Built a team-specific detailed visualization dashboard using Atlassian Jira, to provide a centralized view of all tasks,
+improving team performance and visibility by 30%.
+- Monitored security alerts on Microsoft Azure Defender and AWS GuardDuty, reducing team response time by 40%.
+- Performed a cost analysis of existing AWS Backup solutions and contributed changes to a large codebase in Azure DevOps
+that reduced backup costs by 15%.
 
 ### Cybersecurity Summer Intern
 #### Schneider Electric Systems Middle East | July 2022 – September 2022
-During my time at Schneider Electric, I had the opportunity to explore industrial control systems from a cybersecurity lens, where I worked hands-on with the integration of advanced cybersecurity solutions. One of my key roles was creating documentation for the IEC-62443 standard, a set of guidelines critical for safeguarding industrial automation and control systems. Leading a team in a qualitative analysis, I presented solutions to senior leadership, culminating in a project that focused on licensing models for service providers. This gave me a deep appreciation for the role that security plays in modern infrastructure and how critical it is to manage these systems with both technical acumen and strategic foresight.
+- Explored industrial control systems and cybersecurity principles to create a presentation on the IEC-62443 standard.
+- Led a team of 9 in a qualitative analysis of SaaS licensing models for service providers, presented to company VPs, and
+secured 1st place for presentation skills and content quality.
 
 ## Connect & Collaborate 🤝
 I’m always on the lookout for exciting collaborations! If you’re working on an innovative project, know of an opportunity I can contribute to, or just want to chat about how tech can improve our daily lives, let’s connect!
-
-[LinkedIn](https://linkedin.com/in/vindhyaa-saravanan)
-[GitHub](https://github.com/Vindhyaa-Saravanan/)
-[Email](vindhyaa.saravanan@yahoo.in)
 
 <p align="center">
     <a href="https://www.linkedin.com/in/vindhyaa-saravanan/" alt="Linkedin">LinkedIn</a> . 
