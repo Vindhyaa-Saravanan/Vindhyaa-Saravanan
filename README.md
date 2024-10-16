@@ -4,11 +4,11 @@
 
 ## About Me 🧠💡
 - 🎓 Finalist MEng, BSc Computer Science student at The University of Leeds, on track for a First-Class Honors track (2021-2025).
-- 🌍 Interested in AI, Cybersecurity, Cloud Security, and Bio-Computing, with a strong focus on harnessing technology to impact people's daily lives, and a personal interest in improving healthcare.
+- 🌍 Avid interest in artificial intelligence, machine learning, cybersecurity, cloud security, with a strong focus on harnessing technology to impact people's daily lives. Also hold a personal interest in computational medicine for improving healthcare.
 - 💼 Hands-on experience during internships at Schneider Electric and AVEVA, where I worked on integrating complex cybersecurity solutions, visualizing team progress, and addressing key infrastructure challenges.
-- 🧬 Experienced in projects integrating AI models for medical diagnostics: ChestMultiVision — an AI-powered web app for instantaneous multi-abnormality chest X-ray analysis (<a href="https://chestmultivision.streamlit.app/">check it out</a>!).
+- 🧬 Experienced in projects integrating AI models for medical diagnostics: ChestMultiVision — an AI-powered web app for instantaneous multi-abnormality chest X-ray analysis (<a href="https://chestmultivision.streamlit.app/">Check it out</a>!).
 
-[View my current resume](https://github.com/Vindhyaa-Saravanan/Vindhyaa-Saravanan/blob/main/resume.pdf)
+[View my latest Resume!](https://github.com/Vindhyaa-Saravanan/Vindhyaa-Saravanan/blob/main/resume.pdf)
 
 ## What I Bring to the Table 🛠️
 [![My Skills](https://skillicons.dev/icons?i=py,java,html,css,js,c,tensorflow,flask,django,github,visualstudio,sqlite,nodejs,nextjs,materialui,react,tailwind,aws,azure)](https://skillicons.dev)
