@@ -1,5 +1,5 @@
 ### Eager to collaborate to build a future where technology meets compassion, and AI transforms the way we live, work, and heal. 💙
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vindhyaa-Saravanan&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vindhyaa-Saravanan&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vindhyaa-Saravanan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me 🧠💡
