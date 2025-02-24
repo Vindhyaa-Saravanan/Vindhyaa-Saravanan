@@ -1,5 +1,5 @@
-### Eager to collaborate to build a future where technology meets compassion, and AI transforms the way we live, work, and heal. 💙
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vindhyaa-Saravanan)](https://git.io/streak-stats)
+### Ready to collaborate to build a future where technology meets compassion, and AI transforms the way we live, work, and heal. 💙
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vindhyaa-Saravanan&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vindhyaa-Saravanan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me 🧠💡
@@ -22,7 +22,7 @@
 - Co-ordinated SCADA testing to evaluate configuration accuracy and response times, improving testing efficiency by 20%.
 - Implemented Acronis cybersecurity to centrally deploy and manage group backup policies
 
-### Research & Development Apprentice
+### Research & Development Apprentice 
 #### AVEVA Solutions | June 2023 – August 2023
 - Built a team-specific detailed visualization dashboard using Atlassian Jira, to provide a centralized view of all tasks,
 improving team performance and visibility by 30%.
@@ -43,7 +43,8 @@ I’m always on the lookout for exciting collaborations! If you’re working on 
     <a href="https://www.linkedin.com/in/vindhyaa-saravanan/" alt="Linkedin">LinkedIn</a> . 
     <a href="mailto:vindhyaa.saravanan@yahoo.in" alt="email">Email</a> . 
     <a href="https://github.com/Vindhyaa-Saravanan/" alt="GitHub">GitHub</a> . 
-    <a href="https://vindhyaa-saravanan.my.canva.site" alt="My Portfolio">Portfolio</a> . 
+    <a href="https://vindhyaa-portfolio.vercel.app/" alt="My Portfolio">Portfolio</a> . 
+    <a href="https://devpost.com/Vindhyaa-Saravanan" alt="DevPost">DevPost</a> . 
     <a href="https://github.com/Vindhyaa-Saravanan/Vindhyaa-Saravanan/blob/main/resume.pdf" alt="My Resume">Resume</a>
   </p>
 
